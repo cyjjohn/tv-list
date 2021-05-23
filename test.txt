@@ -1,0 +1,2 @@
+CCTV-1综合,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
+CCTV-1综合,http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
