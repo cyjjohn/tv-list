@@ -11037,8 +11037,6 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 ,Шансон ТВ (576p)
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:-1 ,ШЁПК (\"SILK\" | Russia) (18+)
-http://live-1.otcnet.ru/shelksd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Шокирующее HD
 http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
 #EXTINF:-1 ,Щёлковское ТВ
