@@ -1,2 +1,13 @@
-CCTV-1综合,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
-CCTV-1综合HD,http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
+	Unknown_606	Offline		149.129.100.78	http://149.129.100.78/gztv.php?id=jingsai
+	Unknown_607	Offline		149.129.100.78	http://149.129.100.78/gztv.php?id=xinwen
+	Unknown_628	Offline		ott.fj.chinamobile.com	http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/3.m3u8
+	Unknown_923	Offline		mp3-live.swr.de	http://mp3-live.swr.de/swr4rp_m.m3u
+	Unknown_939	Offline		www.dradio.de	http://www.dradio.de/streaming/dlf.m3u
+	Unknown_964	Offline		streaming01.sr-online.de	http://streaming01.sr-online.de/sr3_2.m3u
+	Unknown_998	Offline		uni8rtmp.tulix.tv:1935	http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
+	Unknown_1006	Offline		live.canaloncelive.tv:1935	http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+	Unknown_1011	Offline		mp3-live.dasding.de	http://mp3-live.dasding.de/dasdingraka02_m.m3u
+	Unknown_1013	Offline		ns8.indexforce.com:1935	http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+	Unknown_1016	Offline		ns8.indexforce.com:1935	http://ns8.indexforce.com:1935/home/mystream/chunklist_w565406043.m3u8
+	Unknown_1017	Offline		mediaworks.dema.mil.kr:1935	http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+	Unknown_1029	Offline		streaming.czgd.cn:8084	http://streaming.czgd.cn:8084/7223161a96984d81b711d762d7e7fdd1/h264_300k_ts/index.m3u8?type=hls_live_redirect
