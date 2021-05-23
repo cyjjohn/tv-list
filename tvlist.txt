@@ -139,12 +139,12 @@ CCTV风云剧场,http://125.210.152.18:9090/live/FYJC.m3u8
 CCTV卫生健康,http://125.210.152.18:9090/live/WSJK.m3u8
 
 上海,#genre#
-东方卫视蓝光3,http://111.12.102.68:6610/PLTV/77777777/224/3221225718/index.m3u8?
-东方卫视蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225682/index.m3u8?
-东方卫视高清,http://39.134.65.66:80/wh7f454c46tw1757988775_378791388/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225700/index.m3u8?icpid=88888888&amp;RTS=1554599530&amp;from=1&amp;hms_devid=126
-东方卫视蓝光1,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+东方卫视,http://111.12.102.68:6610/PLTV/77777777/224/3221225718/index.m3u8?
+东方卫视,http://111.12.102.68:6610/PLTV/77777777/224/3221225682/index.m3u8?
+东方卫视,http://39.134.65.66:80/wh7f454c46tw1757988775_378791388/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225700/index.m3u8?icpid=88888888&amp;RTS=1554599530&amp;from=1&amp;hms_devid=126
+东方卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
 东方卫视,http://39.134.65.88:80/wh7f454c46tw1760039064_-1515786664/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225647/index.m3u8?icpid=88888888&amp;RTS=1554599532&amp;from=1&amp;hms_devid=134
-东方卫视HD,http://223.82.250.72/live/hddongfangstv/1.m3u8
+东方卫视,http://223.82.250.72/live/hddongfangstv/1.m3u8
 上海新闻综合,http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 第一财经HD,http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
 上海体育,http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8
@@ -631,7 +631,7 @@ NEW吉林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3
 
 中南地区,#genre#
 NEW江西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
-九江公共频道,http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8 
+九江公共频道,http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
 九江新闻综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
 湖南娱乐,http://149.129.100.78/hunan.php?id=344
 湖南公共,http://149.129.100.78/hunan.php?id=261
