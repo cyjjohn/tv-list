@@ -77,9 +77,9 @@ https://live.metshop.top/msp.php?id=xjws
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",海南卫视
 https://live.metshop.top/msp.php?id=hinws
 
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/上海都市.png",上海都市
-https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=53da33e91b41b502b14aaa5c92afc4cd&txTime=6560aba8
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png",上海新闻综合
-https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=004c6024f53a1462b31c52a4a2e631d3&volcTime=1700834178
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海",上海新闻综合
+https://pi.0472.org/tv/sh.php?id=xw
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海",上海都市
+https://pi.0472.org/tv/sh.php?id=ds
 #EXTINF:-1 group-title="上海" ,上海第一财经
 https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1700833859-0-0-fac09e7d6265f96933e196a51d8e816b
