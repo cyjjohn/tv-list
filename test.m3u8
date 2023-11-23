@@ -35,7 +35,6 @@ http://cfss.cc/api/ysp/cctv15.m3u8
 http://cfss.cc/api/ysp/cctv16.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV17
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
-
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1700747354&sign=f69b29792b7c90aabceb62373eebbc58
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
@@ -76,7 +75,6 @@ https://live.metshop.top/msp.php?id=scws
 https://live.metshop.top/msp.php?id=xjws
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",海南卫视
 https://live.metshop.top/msp.php?id=hinws
-
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海",上海新闻综合
 https://pi.0472.org/tv/sh.php?id=xw
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海",上海都市
